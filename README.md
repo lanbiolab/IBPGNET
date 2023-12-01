@@ -4,7 +4,7 @@ IBPGNET is a computational framework based on pathway hierarchical relationships
 # File description
 
 GCN_Prediction.ipynb, Pathways link prediction code.  
-Main.ipynb, main function.  
+Main.ipynb, Main function.  
 data, The data set required for the main function to run.  
 deepexplain, Weight calculation methods.  
 

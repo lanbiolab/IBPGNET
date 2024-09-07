@@ -1,4 +1,6 @@
 # IBPGNET
+Z Xu, H Liao, L Huang, Q Chen, W Lan, S Li. IBPGNET: lung adenocarcinoma recurrence prediction based on neural network interpretability. Briefings in Bioinformatics 25 (3), bbae080
+
 IBPGNET is a computational framework based on pathway hierarchical relationships, which is used to predict lung adenocarcinoma recurrence and explore the internal regulatory mechanisms of lung adenocarcinoma. In addition, IBPGNET can efficiently integrate different omics data and provide global interpretability.
 
 # File description
